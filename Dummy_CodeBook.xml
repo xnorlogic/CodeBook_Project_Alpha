@@ -88,4 +88,26 @@
       <Black>2344</Black>
     </Statistics>
   </Variable_F>
+  <Variable_XYZ>
+    <Name>Variable_XYZ</Name>
+    <Code>
+      <YES>1</YES>
+      <NO>2</NO>
+    </Code>
+    <Statistics>
+      <YES>256</YES>
+      <NO>13</NO>
+    </Statistics>
+  </Variable_XYZ>
+  <Variable_ABG>
+    <Name>Variable_ABG</Name>
+    <Code>
+      <YES>1</YES>
+      <NO>2</NO>
+    </Code>
+    <Statistics>
+      <YES>90</YES>
+      <NO>456</NO>
+    </Statistics>
+  </Variable_ABG>
 </This_CodeBook>
